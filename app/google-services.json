@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43544012838",
+    "project_id": "gestion-de-inventario-519a0",
+    "storage_bucket": "gestion-de-inventario-519a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43544012838:android:41e8e5121862dff5389ee7",
+        "android_client_info": {
+          "package_name": "com.example.gestiondeinventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43544012838-d5od2g9nr6j6bi994370k38aeak5sa6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestiondeinventario",
+            "certificate_hash": "a2241198760bccc9fa9fa5bf055c306852f2e2f8"
+          }
+        },
+        {
+          "client_id": "43544012838-bk4ccpilu2rhs5n4em09j7jvr94cc94f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg79MEIBYpWgszKctimE9ltBM7gyRVwl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43544012838-bk4ccpilu2rhs5n4em09j7jvr94cc94f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
